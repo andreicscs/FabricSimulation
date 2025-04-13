@@ -39,7 +39,7 @@ A real-time 2D simulation of a fabric mesh using spring forces and gravity. The 
 #### Import Project:
 **Option 1: Clone from Git**
 ```bash
-git clone https://github.com/your-repo/FabricSimulation.git
+git clone https://github.com/andreicscs/FabricSimulation.git
 ```
 Then in Eclipse:
 
